@@ -1,10 +1,12 @@
 export const CONNECT_WITH_WALLET = "CONNECT_WITH_WALLET";
 export const lOGIN = "LOGIN";
-export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
-export const REGISTER_USER = "REGISTER_USER";
 export const FRIEND_LIST = "FRIEND_LIST";
+
+export const CURRENT_FRIEND_DETAIL = "CURRENT_FRIEND_DETAIL";
 export const FRIEND_MSG = "FRIEND_MSG";
-export const SEARCH_USER = "CONNECT_WITH_WALLET";
+export const SEARCH_USER = "SEARCH_USER";
+
+export const LOADING = "LOADING";
 
 export const ERROR_CONNECT_WITH_WALLET = "ERROR_CONNECT_WITH_WALLET";
 export const ERROR_AUTH = "ERROR_AUTH";
